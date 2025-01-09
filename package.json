@@ -13,6 +13,6 @@
     "webpack-cli": "^6.0.1"
   },
   "exports": {
-    ".": "./src/index.json"
+    ".": "./src/index.js"
   }
 }
